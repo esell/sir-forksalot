@@ -19,7 +19,7 @@ On Ubuntu you can do something like:
 to get the needed tools to build libgit2. Once you have that you need to clone the libgit2 repo and follow their
 build instructions to get it all built and installed.
 
-Ok, done? Now use the build/install instructions provided by git2go to get everything aligned.
+Or you could just run the docker image and forget about all of that ;)
 
 
 # Install
