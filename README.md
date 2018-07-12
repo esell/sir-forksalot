@@ -22,6 +22,11 @@ build instructions to get it all built and installed.
 Ok, done? Now use the build/install instructions provided by git2go to get everything aligned.
 
 
+# Install
+
+The usual: `go get github.com/esell/sir-forksalot`
+
+
 # Usage
 
 So now you have built way too many things that you'll never use let's run this thing!
